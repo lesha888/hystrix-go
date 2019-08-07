@@ -6,7 +6,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/afex/hystrix-go/hystrix/callback"
+	"github.com/lesha888/hystrix-go/hystrix/callback"
 )
 
 // CircuitBreaker is created for each ExecutorPool to track whether requests
